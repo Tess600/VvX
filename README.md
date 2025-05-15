@@ -1,2 +1,2 @@
 # VvX
-Building a smart contract here. Nothing to see.
+This is V.velox Limited's content development repository. 
